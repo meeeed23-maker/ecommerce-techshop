@@ -1,12 +1,15 @@
 # 🛒 TechShop - Application E-Commerce
+[![CI/CD Pipeline](https://github.com/meeeed23-maker/ecommerce-techshop/actions/workflows/ci-cd.yml/badge.svg)]
+(https://github.com/meeeed23-maker/ecommerce-techshop/actions/workflows/ci-cd.yml)
 
-Application e-commerce complète avec **Spring Boot 3.2** (Backend) + **Angular 17** (Frontend) + **PostgreSQL** (Base de données).
+Application e-commerce complète avec **Spring Boot 3.2** (Backend) + **Angular 17** 
+(Frontend) + **PostgreSQL** (Base de données).
 
-## 🚀 Lancement rapide
+##  Lancement rapide
 
 ```bash
 docker-compose up --build
-📦 Technologies
+   Technologies
 Couche	Technologie
 Backend	Spring Boot 3.2 + Java 17
 Frontend	Angular 17
@@ -23,6 +26,8 @@ GET /api/products - Liste des produits
 POST /api/auth/login - Connexion
 
 POST /api/orders - Passer commande
-
+Docker Hub
+- Backend image
+- Frontend image
 📝 Licence
 MIT
